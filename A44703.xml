@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Basilidi dōron. or, The royal present as it was delivered in a sermon, in the parish-church of Boston, Octob. 9, 1663, at the arch-diaconal visitation of the reverend and right worshipfull Raphael Throckmorton, D.D. and arch-deacon of Lincoln / by Obadiah Howe ...</title>
+            <author>Howe, Obadiah, 1615 or 16-1683.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1664</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 74 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44703</idno>
+            <idno type="STC">Wing H3049</idno>
+            <idno type="STC">ESTC R43267</idno>
+            <idno type="EEBO-CITATION">27098441</idno>
+            <idno type="OCLC">ocm 27098441</idno>
+            <idno type="VID">109971</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44703)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 109971)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1721:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Basilidi dōron. or, The royal present as it was delivered in a sermon, in the parish-church of Boston, Octob. 9, 1663, at the arch-diaconal visitation of the reverend and right worshipfull Raphael Throckmorton, D.D. and arch-deacon of Lincoln / by Obadiah Howe ...</title>
+                  <author>Howe, Obadiah, 1615 or 16-1683.</author>
+               </titleStmt>
+               <extent>[4], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by E. Cotes, for A. Stile ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1664.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First two words of title printed in Greek letters.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Isaiah LX, 13 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:109971:1" rendition="simple:additions"/>
+            <p>ΒΑΣΙΛΙΔΙ ΔΩΡΟΝ: OR, The Royal Preſent.</p>
+            <p>As it was Delivered in a SERMON, In the Pariſh-Church of <hi>BOSTON, Octob.</hi> 9. 1663. at the Archi-Diaconal Viſitation of the Reverend and right Worſhipfull <hi>RAPHAEL THROCKMORTON,</hi> D. D. and Arch-Deacon of <hi>LINCOLN.</hi>
+            </p>
+            <p>By <hi>OBADIAH HOWE,</hi> A. M. ſometimes Student of <hi>Magd. Hall Oxon.</hi> now Vicar of <hi>BOSTON</hi> in <hi>Lincoln-ſhire.</hi>
+            </p>
+            <q>
+               <p>Becauſe of thy Temple at <hi>Jeruſalem,</hi> therefore they ſhall bring preſents unto thee,</p>
+               <bibl>
+                  <hi>Pſal. 68.29.</hi>
+               </bibl>
+            </q>
+            <q>
+               <p>The Daughter of <hi>Tyre</hi> ſhall be there with a gift, the rich among the people ſhall entreat thy favour,</p>
+               <bibl>
+                  <hi>Pſ. 45.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>E. Cotes,</hi> for <hi>A. Seile</hi> over againſt St. <hi>Dunſtans</hi> Church in <hi>Fleetſtreet,</hi> 1664.</p>
+            <pb facs="tcp:109971:1" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:109971:2"/>
+            <pb facs="tcp:109971:2"/>
+            <head>To the Right Reverend Father in God <hi>BENJAMIN,</hi> Lord <hi>Biſhop</hi> of the Dioceſs of <hi>Lincoln.</hi>
+            </head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Sometimes finde an <hi>Apologue</hi> which the <hi>Jewes</hi> have in their <hi>Talmud,</hi> of the <hi>Grapes in</hi> Babel <hi>ſending to the Vine-leaves in</hi> Judea, <hi>to cover them with their ſhadow.</hi> I muſt make my way to your <hi>Lordſhips</hi> hands by this humble Petition, that your <hi>Goodneſs</hi> may act the <hi>My<g ref="char:EOLhyphen"/>thologiſt</hi> here, and caſt your ſhadow over this imma<g ref="char:EOLhyphen"/>ture and indigeſted fruit: I know I may juſtly fall under a ſevere cenſure, that ſuch an empty preſent from ſo an unknown and worthleſs hand; ſhould covet ſo high, as to thruſt it ſelf into your <hi>Lordſhips</hi> hands: But (my Lord) it is your ennobled <hi>Candor</hi> which makes me thus preſume and preſſe, which I hope will find cauſe from it ſelf to accept, what I ſhould from my ſelf finde no confidence to offer, and make the pardon eaſie, where the error is out of <hi>Reverence;</hi> and the end not to <hi>give</hi> any thing to your <hi>worth,</hi> but to <hi>gain</hi> ſomething to the <hi>work. Abigail</hi> her mo<g ref="char:EOLhyphen"/>deſt Apology for her ſlender <hi>Preſent</hi> of Figgs and Raiſins to <hi>David, 1 Sam. 25.27.</hi> muſt be mine to
+<pb facs="tcp:109971:3"/>your <hi>Lordſhip.</hi> This ſlender and worthleſs piece, as being much below your higher Speculations, <hi>Let it be for the young men which walk at your Lord<g ref="char:EOLhyphen"/>ſhips feet</hi> Yet I know not to whom upon better accompt either of Reaſon or Duty, I ſhould apply my ſelf upon ſuch an occaſion, and ſuch a ſubject, than to your ſelf; whom Providence hath raiſed to ſtand as a tall <hi>Cedar</hi> in our <hi>Lebanon:</hi> Theſe Conceptions, ſuch as they are, were by command delivered at a Viſitation, where your <hi>Lordſhip</hi> is preſent; though not in <hi>Perſon,</hi> yet in <hi>Power:</hi> And thus they yet purſue their main end, in lying at your feet, with this earneſt and humble Prayer, that you as a <hi>Cedar,</hi> and we all as the <hi>Firre, Pine,</hi> and <hi>Box,</hi> may make the place of his feet glorious. I conclude with this craving Impreſs or Motto of him, who ſetting down only Ciphers in his Roll, wrote this, <hi>adde vel unum.</hi>
+            </p>
+            <p>Theſe following pages I have Impreſs'd as ſo many <hi>Ciphers:</hi> if your <hi>Lordſhip</hi> will pleaſe to adde this one thing, your <hi>acceptance</hi> and <hi>patrociny,</hi> they will thence gain both number and weight; and Crown the opportunity, which (as one that is under your Epiſcopal care and government) I gladly lay hold of, to let your <hi>Lordſhip</hi> know, that I am, and do in all humility ſub<g ref="char:EOLhyphen"/>ſcribe my ſelf</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>
+                  <hi>Your moſt humble and obliged Servant, in all Duty and Service,</hi> Obadiah Howe.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:109971:3"/>
+            <head>THE ROYAL PRESENT.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Iſa. 60. v. 13.</hi>
+                  </bibl>
+                  <p>The Glory of Lebanon ſhall come to thee, the firr, the pine, and the box, together; to beautifie my ſan<g ref="char:EOLhyphen"/>ctuary, and to make the place of my feet glorious.</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>O reconcile the Text, and the Time, a word muſt be ſpoken of the <hi>Pra<g ref="char:EOLhyphen"/>pheſie,</hi> a word of the <hi>Chapter,</hi> and the reſt of the <hi>Text.</hi> As to the Pro<g ref="char:EOLhyphen"/>pheſie, we muſt know that <hi>Prophe<g ref="char:EOLhyphen"/>ſies</hi> and <hi>Promiſes</hi> are in their pre<g ref="char:EOLhyphen"/>dictions, as <hi>Maps</hi> and <hi>Land-skips</hi> are in their deſcriptions, preſent things contracted, and at a diſtance: In the one we ſay as the Queen of <hi>Sheba</hi> of <hi>Solomons</hi> glory, <hi>half was not told me,</hi> 1 <hi>King.</hi> 10. or as the Apoſtle 1 <hi>Joh.</hi> 3.2. <hi>It doth not ap<g ref="char:EOLhyphen"/>pear what we ſhall be.</hi> And in the other, as of the <hi>Patri<g ref="char:EOLhyphen"/>archs, Heb.</hi> 11.13. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>they ſaw them afarr off.</hi>
+               <pb n="2" facs="tcp:109971:4"/>Yet all are not equally ſhort and diſtant, ſome more to the life, and bring things nearer us by much. Of which ſort this of the Prophet <hi>Iſay</hi> is; whoſe work we find to be, to ſet forth the glory of the Kingdom and Church of Chriſt. And he doth it ſo exactly, and to the life, as if with S. <hi>Paul,</hi> he had been <hi>wrapt up into the third heavens,</hi> or <hi>caught up into Paradiſe,</hi> 2 <hi>Cor.</hi> 12.2, 4. or with S. <hi>John,</hi> in viſion had ſeen the <hi>new Jeruſalem coming down from heaven as a Bride adorned for her husband.</hi> In thoſe legal admini<g ref="char:EOLhyphen"/>ſtrations <hi>Evangelium</hi> was <hi>ſub velo,</hi> the Goſpel was under the vail, that glorious pearl was locked up in its Cabbi<g ref="char:EOLhyphen"/>net, and this royal <hi>pair</hi> lay behind the Curtains. But this our Prophet hath almoſt quite drawn them, and in all, he ſo ſpeaks, as if he had been <hi>John Baptiſts</hi> contempora<g ref="char:EOLhyphen"/>ry, or as one of thoſe ear and eye-witneſſes, 1 <hi>Joh.</hi> 1.1. declared what they had heard and ſeen: <hi>ut non tam de futuris vaticinari quam de praeteritis hiſtoriam texere vi<g ref="char:EOLhyphen"/>deatur, ideo non Prophetia eſt, ſed Evangelium;</hi> ſo that he appears not ſo much a Prophet as an Hiſtorian, and the whole rather a Goſpel then a Propheſie. <hi>Alapid. in los.</hi>
+            </p>
+            <p>The Chapter is the Propheſies <hi>Epitome,</hi> thoſe ſcattered Rays of glory all over the whole, are here contracted, ſo the more ſtrong. The Chapter may be well termed, an <hi>Act</hi> for a free, voluntary, and <hi>Royal Preſent</hi> to the <hi>King of Kings;</hi> that is, to his royal <hi>Queen,</hi> whoſe relation, and repreſentation, intereſts <hi>Chriſt</hi> himſelf, in all thoſe ſervices which are done to her. Hence it is that in <hi>Pſal.</hi> 45. what is ſpoken of her, <hi>v.</hi> 12. <hi>The daughter of Tyre ſhall be there with a gift,</hi> is <hi>Pſal.</hi> 98.29. ſpoken of <hi>Chriſt</hi> himſelf; <hi>Becauſe of thy Temple at Jeruſalem they ſhall bring preſents unto thee.</hi>
+            </p>
+            <p>This royal <hi>preſent</hi> is <hi>full</hi> and <hi>free.</hi> It is <hi>full,</hi> we have
+<pb n="3" facs="tcp:109971:4"/>it in the total ſumm, <hi>v.</hi> 5. <hi>abundance of the Sea, and the wealth of the Gentiles:</hi> what Earth and Sea can contri<g ref="char:EOLhyphen"/>bute, muſt fill her Treaſure. If we look for a more di<g ref="char:EOLhyphen"/>ſtinct Inventory, we find it afterwards, <hi>Midians</hi> Camels, <hi>Epha</hi>'s Dromedaries, <hi>Seba</hi>'s Gold and Incenſe, <hi>Kedar</hi>'s Flocks, <hi>Nebaioth</hi>'s Rams; and in the Text, <hi>Lebanons Glory:</hi> Kings to miniſter, Iſles to wait, Ships to waft, and ſons of Strangers to build her Walls: Whatever conduceth to the Beauty or Being of the Church, muſt be brought.</p>
+            <p>And it is as <hi>free</hi> as <hi>full.</hi> Kings ſhall <hi>come,</hi> Riches ſhall <hi>flow</hi> and <hi>fly</hi> as a Cloud, <hi>flock</hi> as Doves, Iſles ſhall <hi>wait,</hi> Flocks ſhall <hi>gather themſelves together,</hi> and the glory of <hi>Lebanon</hi> ſhall <hi>come,</hi> as if all were acted by the impulſe of an ambitious emulation, who ſhould firſt court this royal Queen.</p>
+            <p>The Text is the Compendium of the whole; wherein we have preſented to us,
+<list>
+                  <item>1. The <hi>Cui.</hi>
+                  </item>
+                  <item>2. The <hi>Quid.</hi>
+                  </item>
+                  <item>3. The <hi>Quare.</hi>
+                  </item>
+               </list>
+or
+<list>
+                  <item>1. The <hi>Treaſury.</hi>
+                  </item>
+                  <item>2. The <hi>Treaſure.</hi>
+                  </item>
+                  <item>3. The <hi>Tributaries.</hi>
+                  </item>
+               </list>
+            </p>
+            <list>
+               <item>1. The <hi>Cui,</hi> or the Treaſury; that's <hi>to thee.</hi>
+               </item>
+               <item>2. The <hi>Quare,</hi> or the Treaſure; whatever may make <hi>Glorious.</hi>
+               </item>
+               <item>3. The <hi>Quid,</hi> or Tributaries; the <hi>glory of Lebanon, firr, pine,</hi> and <hi>box.</hi>
+               </item>
+            </list>
+            <p n="1">1. The Treaſury-or the <hi>Thee</hi> in the Text, ſet out in a double expreſſion,
+<pb n="4" facs="tcp:109971:5"/>
+               <list>
+                  <item>1. <hi>My Sanctuary.</hi>
+                  </item>
+                  <item>2. <hi>The place of my feet.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="2">2. The Treaſure, or the <hi>Quare,</hi> in a double expreſſion,
+<list>
+                  <item>1. <hi>To beautifie.</hi>
+                  </item>
+                  <item>2. <hi>To make glorious.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="3">3. The <hi>Quid,</hi> or the Tributaries, in a double Claſſis.
+<list>
+                  <item>1. <hi>The glory of Lebanon.</hi>
+                  </item>
+                  <item>2. <hi>The firr, pine, and box together.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>The one to lead the other to follow, but all to con<g ref="char:EOLhyphen"/>center in <hi>Sions</hi> glory.</p>
+            <p>To conſider all theſe parts by themſelves by way of Gloſs and interpretation of the Text.</p>
+            <p>Firſt, The <hi>Cui,</hi> or the <hi>Thee</hi> in the Text.</p>
+            <p>The Text ſhews us who it is, to ſave us the labour of enquiry, <hi>v.</hi> 14. telleth us it is <hi>Sion, the City of the Lord.</hi> And that this is the <hi>Church</hi> in Goſpel-times, the Apoſtle is our warrant, <hi>Heb.</hi> 12.22, 23. where his own Paraphraſe upon <hi>Sion</hi> is the <hi>Church of the firſt-born;</hi> and this is cal<g ref="char:EOLhyphen"/>led in the Text by a double name, <hi>ſanctuary,</hi> and <hi>the place of his feet.</hi>
+            </p>
+            <p>
+               <hi>My ſanctuary,</hi> becauſe of thy <hi>temple at Jeruſalem,</hi> ſaith the Pſalmiſt, <hi>Pſal.</hi> 68.29. and its needleſs to enquire why the Temple was called the <hi>Sanctuary,</hi> though it was but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Heb.</hi> 9.1. a worldly Sanctuary <hi>i. e. tempora<g ref="char:EOLhyphen"/>neum &amp; caducum,</hi> and with the reſt to vaniſh, yet it was relatively holy, <hi>holy to the Lord,</hi> and was called <hi>the holy place.</hi> Or why the Church of Chriſt typed out by it, ſhould be called the <hi>ſanctuary,</hi> is as needleſs to enquire,
+<pb n="5" facs="tcp:109971:5"/>the Apoſtle is ſo expreſs in it, 1 <hi>Pet.</hi> 2.5. it is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a ſpiritual houſe,</hi> they <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a holy Nation;</hi> and there we find <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> too, <hi>a holy prieſt-hood,</hi> to offer up ſpiritual ſacrifices to God: So that a Temple they muſt be, and an holy one too. Thus ſaith the Apoſtle, <hi>Eph.</hi> 2, 21. they grow up <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to a <hi>holy temple:</hi> and 1 <hi>Cor.</hi> 3.17. <hi>The temple of the Lord is holy, which temple ye are.</hi> But <hi>The place of my feet.</hi>
+            </p>
+            <p>This is ſomething more obſcure; and look not awry upon this expreſſion, or upon the Church, by reaſon of it, thereby to ſtay your hearts and hands, and leſſen your Preſent, to her treaſury, becauſe ſhe is called here the <hi>place of his feet.</hi>
+            </p>
+            <p>The phraſe indeed is ſometimes uſed in Scripture, as importing ſhame, diſhonour and contempt; in which re<g ref="char:EOLhyphen"/>ſpect Conquerours uſed to have their Captives under their feet: as it was the greateſt indignity that <hi>Bajazet</hi> the Grand Seigniour ever ſuffered when <hi>Tamerlain</hi> had him under his feet; or <hi>Valerian</hi> that Tyrant, when <hi>Sa<g ref="char:EOLhyphen"/>pore:</hi> the <hi>Perſian</hi> King trod upon his neck, according to that of the Poet,
+<q>
+                  <l>Qui Conſtantini toties perterruit urbem</l>
+                  <l>Sub <hi>Tamberlano,</hi> ſella, caniſque fuit.</l>
+               </q>
+            </p>
+            <p>And true it is, that the members of Chriſt are under the head, the ſheep of Chriſt in his hands, the lambs of Chriſt in his arms, the Spouſe of Chriſt in his boſom, but the enemies of Chriſt are under his feet. Yet think not that when God is thus commanding our bounty, that he thus detracts from her beauty, as to beſpeak her in this ſenſe, the <hi>place of his feet.</hi>
+            </p>
+            <pb n="6" facs="tcp:109971:6"/>
+            <p>This phraſe is therefore to be obſerved, and that not rarely importing love, familiar, converſe, and delight; and thus an expreſſion of honour and dignity. <hi>Locum pedum meorum dicitur ut coelum ſedes &amp; terra ſcabellum ejus,</hi> ſaith <hi>Lyra, Its the place of my feet, as heaven is his ſeat, and earth his foot. ſtool.</hi> But this I think is much too ſhort: For I would not render or paraphraſe that phraſe, <hi>the place of my feet,</hi> by that other, <hi>my foot-ſtool;</hi> but rather his <hi>Garden</hi> where he will walk, or his <hi>Galleries</hi> wherein he will take and make his delightful receſſes, as he is ſaid to <hi>walk in the midſt of the ſeven golden Candle<g ref="char:EOLhyphen"/>ſticks, Rev.</hi> 1. And ſo its no more the place of his <hi>feet,</hi> then the place of his <hi>heart,</hi> his <hi>houſe</hi> to dwell in, his <hi>throne</hi> to rule in, his <hi>temple</hi> to be ſerved in, the <hi>place of his feet</hi> to walk in: And thus they are put together, <hi>Ezek.</hi> 43.7. And if it be <hi>Sions</hi> glory, when our feet ſtand in her gates, (a thing now too much neglected) as <hi>Pſal.</hi> 122.6. much more muſt it be when ſhe is made the place of <hi>Gods feet.</hi>
+            </p>
+            <p>Secondly, For the <hi>Quare,</hi> or the <hi>Treaſure;</hi> its here ſet down in a double expreſſion, <hi>Beauty,</hi> and <hi>Glory,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a double word in the Text, and in the Tranſlation; the firſt to <hi>beautifie</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>decorare,</hi> to <hi>adorn</hi> or make beautiful; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the ſubſtantive is <hi>decor, nitor,</hi> inherent <hi>beauty</hi> or comelineſs: and this is in <hi>honorate,</hi> as the Church is the <hi>faireſt among women,</hi> whatever men judge of her. The other word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>gravare,</hi> or <hi>honorare,</hi> to load with dignifying titles and honours; this is in <hi>hono<g ref="char:EOLhyphen"/>rante,</hi> in the perſon honouring. Thus all muſt come to contribute whatever may tend to inward and outward glory, to make her to be truly ſo, and to make her to be publickly acknowledged ſo, to make her the <hi>excellency of many generations,</hi> and <hi>the praiſe of the whole earth,</hi> that
+<pb n="7" facs="tcp:109971:6"/>as in <hi>Pſal.</hi> 76.4. ſhe may be <hi>more excellent then the moun<g ref="char:EOLhyphen"/>tains of prey:</hi> and as <hi>Pſal.</hi> 87.3. <hi>Glorious things are ſpo<g ref="char:EOLhyphen"/>ken of thee, O thou City of God.</hi>
+            </p>
+            <p>Thirdly, For the <hi>Quid,</hi> or the <hi>Tributaries,</hi> what or who muſt come. To this end, we have them in a double Claſſis, <hi>the glory of Lebanon</hi> to come, and the <hi>firr, and pine, and box together.</hi> But what are theſe? In the letter its very clear, they were thoſe trees which <hi>Solomon</hi> fetched from farr to build and beautifie the Temple of old; but what theſe are in the <hi>myſterie,</hi> deſerves a <hi>me<g ref="char:EOLhyphen"/>lius Inquirendum.</hi> It argued the imperfection of the blind mans half reſtored ſight, but it will be the perfecti<g ref="char:EOLhyphen"/>on of ours to fee as he, <hi>Mark</hi> 8.24. <hi>men walking like trees to</hi> Sions <hi>glory.</hi> Our Prophet <hi>Iſaiah</hi> doubtleſs looked be<g ref="char:EOLhyphen"/>yond the material Temple to another, whoſe glory ſhould exceed the former, as <hi>Hag.</hi> 2. not in an outward ſplendor, and pomp, but a more ſpiritual glory. The Apoſtle <hi>Peter</hi> jumps right with our Prophet; and calls it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Pet.</hi> 2. a <hi>ſpiritual houſe,</hi> and ſo muſt have more ſpiritual materials; and he tells us of thoſe <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>living or lively ſtones,</hi> ſo here, we muſt look out ſome lively or living trees for timber for this ſpiritual houſe, ſhe needing no <hi>Cedar, Firr, Pine, nor Box,</hi> to patch up an outward magnificence: and yet to this the <hi>glory of Leba<g ref="char:EOLhyphen"/>non, the firr, the Pine, the box,</hi> muſt come, and all in a <hi>myſtery.</hi> And here <hi>Lyra</hi> will help us, who tells us, <hi>per tales arbores poſſunt intelligi perſonae notabiles ad ortum Eccleſiae per fidem venientes;</hi> by theſe trees are ſignified <hi>ſome eminent and notable p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rſons coming to the riſing and growth of this Church.</hi> But to make a more particular enquiry after theſe comers to <hi>Sions</hi> glory.</p>
+            <p>
+               <hi>The glory of Lebanon;</hi> This phraſe if it had been ſet alone, muſt have been taken for <hi>complexum quid,</hi> all
+<pb n="8" facs="tcp:109971:7"/>thoſe trees of renown wherewith <hi>Lebanon</hi> was adorned; but being put, (as here) by way of diſtinction, it muſt be taken for the <hi>Cedar,</hi> which is ever accounted the glory of <hi>Lebanon:</hi> and ſo the <hi>Cedar</hi> and <hi>Lebanon</hi> are ſo joyned in Scripture together, as if <hi>Lebanon</hi> would be known by no other trees then the <hi>Cedar,</hi> as <hi>Lebanons</hi> chief glory. For thus, in reſpect of their height and beauty they are called, <hi>Pſal.</hi> 80.10. the <hi>Cedars of God;</hi> and if thus? then a myſtery. <hi>Cedars</hi> do ſet forth <hi>high ones of ſtature,</hi> and power in the earth; which are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>glories</hi> of the earth, <hi>Jude</hi> 8. as <hi>Iſa.</hi> 10.33. <hi>The high ones of ſtature ſhall be hewen down, and Lebanon ſhall fall.</hi> When the Scepter of <hi>Iſrael</hi> was to veil to a foraign power, and for ſupport for 70 years, to be pinned to <hi>Babylons</hi> walls, it was fitly compared to a <hi>Vine;</hi> but when to be reſtored to its primitive power, and to become a power of it ſelf, it is ſaid to become <hi>a goodly Cedar, Ezek.</hi> 17.22. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>eſt Cedri genus &amp; ſignificat principes &amp; magnates, quia Ce<g ref="char:EOLhyphen"/>dris comparantur,</hi> ſaith <hi>Pagnin, the Cedar ſignifies Prin<g ref="char:EOLhyphen"/>ces and great ones, they being compared to Cedars.</hi> Here<g ref="char:EOLhyphen"/>upon <hi>Jehoaſh</hi> told <hi>Amaziab,</hi> that he being but a <hi>thiſtle,</hi> himſelf was a <hi>Cedar</hi> in <hi>Lebanon,</hi> 2 <hi>King.</hi> 14.9. and thus is this in the 13. <hi>v. The glory of Lebanon ſhall come,</hi> ex<g ref="char:EOLhyphen"/>preſſed in other terms, but the ſame in ſenſe, <hi>v.</hi> 10. <hi>Kings ſhall miniſter unto thee.</hi> And its ſaid of <hi>Solomon</hi> in type, and of Jeſus Chriſt as the <hi>Prototype,</hi> each of their power being to empty it ſelf into the Churches treaſure, <hi>Pſal.</hi> 72.16. <hi>Thy fruit ſhall ſhake like</hi> Lebanon, <hi>and the earth ſhall be filled with his glory:</hi> In the whole we may eaſily eſpie the glory of <hi>Lebanon</hi> coming. But becauſe <hi>Solomon</hi> was a Prince with his civil power, and Chriſt who was typed out by him, is King too; but with ſomething a more ſpiritual power, we may more then conjecture
+<pb n="9" facs="tcp:109971:7"/>that this <hi>Cedar</hi> imports not only <hi>Civil</hi> but <hi>ſpiritual pre<g ref="char:EOLhyphen"/>lation;</hi> thoſe that are over the Houſe of the Lord are <hi>Cedars</hi> alſo; and bear a ſhare in this <hi>glory of Lebanon:</hi> Whence <hi>Zach.</hi> 11.1. the Prophet cryeth, <hi>Open thy dores O Lebanon, that the fire may devour thy Cedars;</hi> theſe <hi>Cedars</hi> the Prophet himſelf being his own Comment, tel<g ref="char:EOLhyphen"/>leth us, are the <hi>Shepheards;</hi> thus verſ. 3. <hi>The voyce of the howling of the Shepheards, for their glory is ſpoyled;</hi> thus the glory of <hi>Lebanon</hi> is ſpoyled: And all Interpreters, ancient and recent, take theſe <hi>Shepheards</hi> to ſignifie <hi>prae<g ref="char:EOLhyphen"/>fectos politicos ut Magiſtratus, et Eccleſiaſticos ut Sacerdo<g ref="char:EOLhyphen"/>tes,</hi> both <hi>Civil</hi> and <hi>Spiritual Governours,</hi> and where it is ſaid, verſ. 8. <hi>I will cut off three Shepheards in one moneth, Principes, Prophet as, et Pontifices,</hi> its <hi>Princes, Prophets, and Prieſts,</hi> ſay <hi>Alapid, Daneus, Piſcator, Gualter,</hi> and many others; and in verſ. 17. he cloſeth the Chapter with a <hi>vae Idolo Paſtori,</hi> Woe to the <hi>Idol-Shepheard,</hi> which none ſcruple at all, the taking in, if not the chief meaning to be, the <hi>Prieſt and Prophet,</hi> who were their Leaders, and cauſed them to erre.</p>
+            <p>And this <hi>glory of Lebanon</hi> is more then half atteſted, <hi>Iſa.</hi> 22. where the Prophet telleth us, that <hi>Eliakim had the Government put into his hand, he ſhould be a Father to Jeruſalem, and upon him ſhould hang the glory of his Fa<g ref="char:EOLhyphen"/>thers houſe, and</hi> Shebna <hi>ſhould be cut down as a tall Cedar and fall:</hi> And <hi>Alapid,</hi> upon the Text ſaith, <hi>Non tantum Reges et Principes, ſed etiam Apoſtolos et Apoſtolicos viros intelligit;</hi> that it ſignifies <hi>not only Kings and Princes, but alſo Apoſtles and Apoſtolical men:</hi> And the Text it ſelf when it ſaith, <hi>The glory of Lebanon ſhall come to thee,</hi> it telleth us what is meant by this <hi>glory of Lebanon,</hi> in <hi>verſ.</hi> 17. he gives it us thus, <hi>I will make thine officers peace, and thine Exactors righteouſneſs:</hi> By <hi>Officers and Exactors,</hi>
+               <pb n="10" facs="tcp:109971:8"/>the current of Interpreters underſtand both <hi>Civil and Sacred,</hi> or, Spiritual Governours; and that not upon any pretended ground, for the original Text reads it, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: <hi>ponam viſitationem tuam pa<g ref="char:EOLhyphen"/>cem,</hi> reads the <hi>vulgar Latin,</hi> I will make thy <hi>viſitation</hi> peace, but that is, <hi>viſitationem tuam</hi> for <hi>viſitatores tuos</hi> thy <hi>viſitors:</hi> and the <hi>Septuagint</hi> brings it yet a little high<g ref="char:EOLhyphen"/>er, and readeth it <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, thy <hi>Biſhops</hi> or <hi>Overſeers;</hi> whoſe office it is, carefully to overſee the Flock, to be <hi>inſpectores morum,</hi> who have the Government in their hand; not <hi>Sceptrum Regale,</hi> but <hi>pedum paſtorale;</hi> not a Kingly <hi>Scepter,</hi> but a Shepheards <hi>Staffe;</hi> thoſe who are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Heb.</hi> 13.7. which have <hi>the rule over us,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, are <hi>ſet over us,</hi> verſ. 17. whoſe office it is to ſuper<g ref="char:EOLhyphen"/>intend the Flock, and to <hi>viſit</hi> it, not out of Courteſie only, but Charge and Authority, to redreſs abuſes in manners, and whether by Epiſtle, or preſence, as St. <hi>Paul</hi> in his Apoſtolical <hi>viſitation</hi> with his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> too; to <hi>ſet things in order;</hi> ſo he was the <hi>Cedar,</hi> and as ſo he was to <hi>come</hi> alſo; hence he ſaith, <hi>I will ſet things in order when I come:</hi> and when all powers, whe<g ref="char:EOLhyphen"/>ther <hi>ſacred</hi> or <hi>civil</hi> direct their Authority towards <hi>Sions</hi> glory: when <hi>Kings</hi> are <hi>Nurſing Fathers</hi> and <hi>Eliakim</hi> a <hi>Father</hi> to <hi>Jeruſalem,</hi> when ſhe ſucks the breaſts of <hi>Kings</hi> and the <hi>other</hi> Miniſter to her, when the two ſons of Oyl <hi>Zerubbabel</hi> and <hi>Joſhua</hi> empty their golden Pipes into her Lamp, when thoſe that have the overſight of her, doe not over-look her, <hi>Shebna</hi> like, making themſelves great, making the Chariots of their glory, become the ſhame of their Maſters houſe, but as St. <hi>Paul</hi> having the care of the Churches upon them, ſpend themſelves and are ſpent in the procuring the true and genuine glory of the Church, when they that rule as 1 <hi>Tim.</hi> 5.17. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:109971:8"/>
+               <hi>well,</hi> and ſo act as acknowledging (with St. <hi>Paul</hi>) that their Authority is given them, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>for edification, not deſtruction,</hi> 2 <hi>Cor.</hi> 13.10. then are they the lively Comments upon this firſt part of the Text, <hi>the glory of Lebanon comes to thee.</hi>
+            </p>
+            <p>
+               <hi>The Firre, and Pine, and the Box together,</hi> this the ſe<g ref="char:EOLhyphen"/>cond, and here, the wiſdom of a <hi>Solomon</hi> would ſupply, who could read of all the trees from the <hi>Hyſop</hi> upon the Wall, to the <hi>Cedar</hi> in <hi>Lebanon:</hi> Then ſhould we be re<g ref="char:EOLhyphen"/>duced out of all thoſe uncertainties, intricacies, contra<g ref="char:EOLhyphen"/>dictions, in which both Interpreters and Linguiſts are in<g ref="char:EOLhyphen"/>volved, about the names of theſe trees <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> reads the Original Text, <hi>Beroſh, Tidhar, Teaſhur,</hi> the three words in the Text, which our Tranſlation ren<g ref="char:EOLhyphen"/>ders the <hi>Firre, Pine</hi> and <hi>Box;</hi> if we conſult <hi>Linguiſts, Interpreters,</hi> and all the <hi>Oriental Verſions,</hi> we ſhall finde, there is no agreement in their names; nay we ſhall finde that every name mentioned in our Tranſlation, is given to every word ſingly in the Text: <hi>Beroſh eſt Cedrus, Abies, et Buxus,</hi> ſay both <hi>Shindler</hi> and <hi>Pagnin,</hi> the <hi>Ce<g ref="char:EOLhyphen"/>dar</hi> the <hi>Firre,</hi> the <hi>Box:</hi> For the ſecond, <hi>Tidhar, Laurus, et Cedrus,</hi> ſaith <hi>Shindler; Cedrus et Ulmus</hi> ſaith <hi>Pagnin;</hi> thus is this called the <hi>Cedar,</hi> the <hi>Laurell,</hi> the <hi>Elm:</hi> And the third, <hi>Teaſhur, Myrtus, Buxus, Abies,</hi> ſaith <hi>Shindler: Cedrus, Abies, vel Buxus,</hi> ſaith <hi>Pagnin;</hi> this is alſo cal<g ref="char:EOLhyphen"/>led the <hi>Myrtle, Box,</hi> and <hi>Firre,</hi> and <hi>Cedar;</hi> nay they will leave us in a very great uncertainty; what they are, when they tell us, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is, <hi>Omnis arbor quae ad Dei honorem plantatur;</hi> any tree that is planted for the honour of God; and that from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(via) ant (greſſus)</hi> it being in uſe of old, to plant trees of eminency, by the places of publique worſhip, <hi>populo oſtendentes viam, cujus rei veſtigia in noſtris coemeteriis adbuc videre eſt,</hi>
+               <pb n="12" facs="tcp:109971:9"/>ſaith <hi>Shindler: To direct the people in the way, the foot<g ref="char:EOLhyphen"/>ſteps of which is yet to be ſeen in our Church-yards fre<g ref="char:EOLhyphen"/>quently:</hi> So that could my time, or your occaſions give leave; yet all our curioſity herein could never ſatisfie: And the leſs reaſon we have critically to determine in this caſe; becauſe the Spirit of God doth not confine himſelf to any thing mentioned in this Text; not to the <hi>glory of Lebanon,</hi> for <hi>Iſa.</hi> 35.2. he telleth us, the <hi>beauty of Sharon,</hi> and <hi>the excellency of Karmel,</hi> as well as the <hi>glory of Lebanon</hi> ſhall be given to it, and not only the <hi>Firre,</hi> and <hi>Pine,</hi> and <hi>Box,</hi> but <hi>Iſa.</hi> 41.19. he telleth us, he will plant beſides theſe the <hi>Shittah,</hi> the <hi>Myrtle,</hi> and the <hi>Oyl-tree:</hi> As if he would tell us, that, as many trees with their various uſes were brought to the Temple, ſo he would bring many perſons, with their various offi<g ref="char:EOLhyphen"/>ces, capacities, and endowments, to give being, and beauty to his Goſpel-Church; and then theſe trees ap<g ref="char:EOLhyphen"/>pear to be, as <hi>Lyra</hi> his <hi>perſonae notabiles ad ortum Eccle<g ref="char:EOLhyphen"/>ſiae venientes;</hi> eminent perſons coming to the riſe of the Church, or, <hi>Quicquid excellens in Eccleſiam invectum iri ſignificat,</hi> as <hi>Lyranus,</hi> whatever is excellent muſt be brought to the Church; or, as <hi>Alapid</hi> upon the Text, <hi>Quicquid ad decorem aut ſtabilitatem Eccleſiae pertinet;</hi> Whatever conduceth to the beauty or ſtability of the Church; and upon <hi>Iſa.</hi> 35.2. he ſaith, <hi>Omnia orna<g ref="char:EOLhyphen"/>menta opes, delicias ſpirituales, copioſas frondes, ſtores, fructus novarum virtutum, et novorum fidelium:</hi> All <hi>Ornaments, riches and ſpiritual delights, the flowers and fruits of new Graces, and new Converts:</hi> And thus St. <hi>Gregory</hi> in his 12 Homily elegantly expatiateth himſelf to this purpoſe: There ſhall be the <hi>Cedar</hi> whom no ſecu<g ref="char:EOLhyphen"/>lar cares ſhall corrupt, the <hi>Thorn</hi> who can prick their hearers at the heart; the <hi>Myrtle</hi> who can temper others
+<pb n="13" facs="tcp:109971:9"/>paſſion with their compaſſion; the <hi>oyl-tree,</hi> who can with the Oyl of the promiſes heal the broken-hearted; the <hi>Firre,</hi> who for their height ſhall contemplate heavenly things; the <hi>Elm,</hi> who by their ſtrength bears up the ten<g ref="char:EOLhyphen"/>der Vines, being ſtrong, ſupport the weak, and bear their burdens: But that of <hi>Brentius</hi> is moſt pertinent,<note place="margin">Brentius.</note> and ſhal be concluſive, who telleth us, <hi>Altiſſima Cedrus Petrus; Cedrus etiam Paulus, et Cedri Apoſtoli, qui ſunt Columnae Eccleſiae, ſunt alii Miniſtri Eccleſiae, et membra, qui ſunt abies, pinus et buxus:</hi> That is thus, <hi>Peter was a tall Ce<g ref="char:EOLhyphen"/>dar,</hi> Paul <hi>a Cedar, and the reſt of the Apoſtles were Cedars; and there are other Miniſters and members of the Church, which are as the Firre, and Pine and Box:</hi> And this comes up to that of the Apoſtle, 1 <hi>Cor.</hi> 12.28. and <hi>Eph.</hi> 4.11. He hath <hi>ſet in the Church</hi> ſaith one Text, he hath <hi>given</hi> ſaith the other Text, <hi>ſome Apoſtles, ſome Prophets, ſome Evangeliſts, ſome Paſtors and Teachers, for the edifying the body of Chriſt;</hi> ſome to overſee, others to build, and others to be as lively Stones, layd up in the Fabrick, and all with their particular powers, offices, endowments, and graces, all to make a glorious Church; and thus the glory of <hi>Lebanon</hi> comes, <hi>the Firre, Pine and Box toge<g ref="char:EOLhyphen"/>ther:</hi> And thus you ſee the whole; and yet there are ſix ſeveral particulars to be obſerved in the Text, as the va<g ref="char:EOLhyphen"/>rious modifications, of theſe coming materials or tribu<g ref="char:EOLhyphen"/>taries.</p>
+            <p n="1">1. Behold them in their <hi>excellency,</hi> its not the <hi>Hyſop</hi> upon the Wall, or the <hi>Shrub</hi> in the Deſert, but the <hi>glory of Lebanon</hi> that muſt come; to tell us, that it is not the <hi>Peaſants</hi> drudgery; but the <hi>Princes,</hi> and the <hi>Prelates</hi> dig<g ref="char:EOLhyphen"/>nity, to miniſter to her, and to intend the Churches glory.</p>
+            <p n="2">2. Behold them in their <hi>univerſality</hi> and <hi>number:</hi> Cedar, the Box, and Firre, and Pine, <hi>ſynecdochically</hi>
+               <pb n="14" facs="tcp:109971:10"/>taking in all the reſt; it was the grand <hi>Charter</hi> confirm'd to the Church, that all things and perſons ſhould be for her ſake, and <hi>every Kingdom and perſon that would not ſerve her, ſhould periſh,</hi> Iſa. 60.12. Which Charter is renewed in the Goſpel, 1 <hi>Cor.</hi> 3.21.21. all <hi>things,</hi> all <hi>perſons, Paul, Apolle, Cephas, things preſent, or things to come, all are yours.</hi>
+            </p>
+            <p n="3">3. Behold them in their <hi>variety,</hi> every one paying his proper ſervice to the Church, the <hi>Cedar,</hi> the <hi>Firre, Pine</hi> and <hi>Box:</hi> ſome with their <hi>height,</hi> others with their <hi>ſtrength;</hi> others with their <hi>ſent</hi> and <hi>ſmell;</hi> others with their <hi>permanence</hi> and <hi>duration;</hi> but all for her glory: the variety of the materials in the univerſe makes up the beauty of it; ſo in the Church. In the firſt <hi>Tabernacle</hi> and <hi>Temple,</hi> there was the <hi>Wood of Shittim,</hi> for the Ark, Altar and Table; <hi>Cedars</hi> for the ſieling and inward orna<g ref="char:EOLhyphen"/>ments; the <hi>Firre</hi> for windowes, dores and floors; <hi>Goats</hi> for their hair; <hi>Badgers</hi> and <hi>Rams</hi> for their skins; <hi>Egypt</hi> for Linnen and Silk, as <hi>Seba</hi> for Gold; all this variety did make up but one <hi>Temple,</hi> ſome for ornament, ſome for ſecurity, but all for ſervice: In a houſe, the veſſels of honour, and thoſe of diſhonour, as well thoſe of <hi>wood and ſtone,</hi> as thoſe of <hi>Silver and Gold,</hi> are for the Maſters uſe, 2 <hi>Tim.</hi> 2.20. In a body natural thoſe members that are more <hi>feeble,</hi> and <hi>leſs honourable,</hi> as well as thoſe that are our more <hi>comely parts, (God having ſo tempered the body)</hi> are for the ſervice of the ſame body, 1 <hi>Cor.</hi> 12.23.24. and its no leſs in the body Myſtical, the Church; all thoſe diverſities of gifts, adminiſtrations, and operations, 1 <hi>Cor.</hi> 12.5.6. as they come from one and the ſame Spi<g ref="char:EOLhyphen"/>rit, ſo they tend to the edifying of the ſame body; all thoſe <hi>dona regalia,</hi> Princely gifts mentioned <hi>Eph.</hi> 4. thoſe perſons, and offices, conſidered either in their ſub<g ref="char:EOLhyphen"/>ordination,
+<pb n="15" facs="tcp:109971:10"/>ordination, or variety, tend to the ſame end: Every gift, whether it be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Grace</hi> or <hi>Gifts,</hi> with their variety or diverſity, they are given to profit withall. In that great Text for this purpoſe, 1 <hi>Cor.</hi> 3.21.22. <hi>Glory not in men, all things are yours, whether Paul, Apollo, or Cephas:</hi> Every one had his proper gift, and excellency, whereby they did captivate their diſciples, ſo that one ſaid, <hi>I am of Paul,</hi> another <hi>I am of Apollo,</hi> a third, <hi>I am of Peter;</hi> the Apoſtle urgeth elegantly, that their ſcattered excellencies, ſhould not produce <hi>Schiſme,</hi> rather <hi>Union;</hi> becauſe all that variety tended to the common advantage: Whether <hi>Peter</hi> with his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <hi>liberty of ſpeech,</hi> or <hi>Paul</hi> with his <hi>learning,</hi> be<g ref="char:EOLhyphen"/>ing brought up at the feet of <hi>Gamaliel,</hi> or <hi>Apollo</hi> with his <hi>language,</hi> being an eloquent man; whether <hi>Peter</hi> with his <hi>power,</hi> pricking to the heart ſo many thouſands at one Sermon, or <hi>Paul</hi> with his <hi>prudence,</hi> catching of them with guile; or <hi>Apollo</hi> with his <hi>potency</hi> in argument convincing them mightily that <hi>Jeſus</hi> was the <hi>Chriſt;</hi> whether <hi>Peter</hi> to break the ground, <hi>Paul</hi> to ſow the ſeed, or <hi>Apollos</hi> to water the field, <hi>all things are yours,</hi> or as <hi>Rom.</hi> 12.6, 7. Whether <hi>propheſie</hi> with its proportion, or the <hi>Miniſter</hi> with his waiting, or the <hi>Ruler</hi> with his diligence, all cometh up to this in the Text, <hi>the glory of Lebanon ſhall come, the Firre, the Pine, and the Box together.</hi>
+            </p>
+            <p n="4">4. Behold them in their <hi>regularity and order,</hi> the <hi>glory of Lebanon:</hi> Firſt, to come, to lead the way to <hi>Sion;</hi> the <hi>Box</hi> then, and <hi>Pine</hi> to follow, and all to come, to make up her glory; God is the God of <hi>Order,</hi> not of <hi>Confuſion,</hi> he loves regular motions, not praepoſterous praecipices: Philoſophers tell us, that the <hi>Celeſtial</hi> bodies obſerve the motion of the <hi>primam mobile;</hi> and the <hi>Planets</hi> are not ſo called, becauſe they move irregularly; for though
+<pb n="16" facs="tcp:109971:11"/>they have a ſeeming erratick, and various poſition as to us; yet their revolutions are ſtrict and certain: In that great work, the raiſing of our bodies, when we might conclude, multitude muſt uſher in confuſion; yet even then, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>every man in his own order,</hi> 1 <hi>Cor.</hi> 15. and then ſhall be the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the order of <hi>firſt</hi> and <hi>laſt:</hi> The men of Warre which came to enthrone <hi>David,</hi> were ſuch as knew how to keep their <hi>ranks,</hi> 1 <hi>Chron.</hi> 12.38. St. <hi>Paul</hi> intended his practiſe, our imitation, when he ſaid, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and its then with joy when a man fulfilleth <hi>his own</hi> courſe. It was no unneceſſary Query of the Adverſaries to the building <hi>Jewes, Ezra</hi> 5.3. <hi>Who hath commanded you to build this Wall?</hi> and their only retrieve from irregularity was thus to anſwer, <hi>The King</hi> Cyrus <hi>made a decree to build the Wall, and ſince it hath been building, ask and ſee, and ſend us the Kings pleaſure in this thing,</hi> verſ. 17. Hence our learned <hi>Davenant</hi> determineth, Queſt. 12. <hi>Non licet ſubditis reformationem moliri renuente Magiſtra<g ref="char:EOLhyphen"/>tu.</hi> The Apoſtles rule is, <hi>Quieti eſtote et res veſtras agite: Be quiet, and doe your own buſineſs:</hi> a ſeeming Paradox, <hi>Agere et quieſcere;</hi> to <hi>doe</hi> buſineſs, and yet to be <hi>quiet;</hi> but the truth lyeth here, to do another mans work, is not ſo much <hi>action</hi> as <hi>commotion:</hi> God expects that the <hi>Cedar</hi> ſhould have ſo much piety, as not to come behinde, and yet that the <hi>Box</hi> and the <hi>Pine</hi> ſhould have ſo much pru<g ref="char:EOLhyphen"/>dence, as not to goe before their guides; the tardy mo<g ref="char:EOLhyphen"/>tion of the <hi>Cedar</hi> may produce obſtruction; but the pre<g ref="char:EOLhyphen"/>poſterous haſte of the <hi>Firre</hi> and <hi>Pine</hi> muſt produce con<g ref="char:EOLhyphen"/>fuſion: It's no auſpicious nativity where the feet comes firſt, though a man-childe be born; its not without diffi<g ref="char:EOLhyphen"/>culty to the birth, and danger to the mother: It's here as with <hi>Zarah</hi> and <hi>Pharez;</hi> we finde as in the Text, there
+<pb n="17" facs="tcp:109971:11"/>are twins in the Churches womb: though <hi>Za<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ch</hi> pull back his hand, if the younger be born firſt, his name muſt be <hi>Pharez,</hi> becauſe its not ſo much a birth as a breach, <hi>Gen.</hi> 38.29. we muſt fill the Churches Treaſures, but not by tumult; when <hi>Zerubbabel</hi> and <hi>Joſhua,</hi> the <hi>glory of Lebanon,</hi> lead the way to lay the foundation, and the reſt help to build, and to cry grace grace unto it; when the <hi>Cedars</hi> are <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Leaders,</hi> and the <hi>Firre</hi> and <hi>Pine</hi> become <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>followers</hi> of them, when the <hi>Cedars</hi> afford themſelves <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>Copy</hi> and <hi>Example,</hi> and the others appear as a Tranſcript from that Original, when the <hi>glory of Lebanon</hi> yields direction and encouragement, the <hi>Box</hi> and <hi>Pine,</hi> obedience and imitation; then this order is fulfilled; <hi>the glory of Lebanon ſhall come, the Firre, and Box, and Pine, together.</hi>
+            </p>
+            <p n="5">5. Behold them in their <hi>ſpontaneity and freedom,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the glory of <hi>Lebanon</hi> ſhall <hi>come:</hi> It's <hi>metus voluntarius,</hi> a <hi>free</hi> and <hi>voluntary</hi> motion, they ſhall come to <hi>Sion</hi> as they came from <hi>Babylon</hi> with rejoycing: The <hi>Chaldee Paraphraſt</hi> reads it, <hi>Introducetur gloria Lebani ad te;</hi> the glory of <hi>Lebanon</hi> ſhall be brought to thee, but this is too ſhort of the ſenſe of the Text; for ſo were the trees brought from <hi>Lebanon</hi> in Ships: But theſe living trees muſt act more like rational creatures, they are to be the Chariots of <hi>Aminadab, Cant.</hi> 6.12. the motion of a <hi>wil<g ref="char:EOLhyphen"/>ling</hi> people, not preſs'd, but Volunteers in the Churches ſervice; true Votaries to <hi>Sions</hi> glory; ſuch a principle indeed crowns the ſacrifice and ſervice; God will ſay as <hi>Deborah</hi> ſung, <hi>Judg.</hi> 5.9. <hi>My heart is towards the Gover<g ref="char:EOLhyphen"/>nours of Iſrael who offered willingly among the people;</hi> all muſt ſay as that Emperour, <hi>Solutis legibus, legibus ta<g ref="char:EOLhyphen"/>men vivo;</hi> freely offer as if there was no act for this <hi>Royal preſent;</hi> what we do, muſt not be ſo much an impoſition,
+<pb n="18" facs="tcp:109971:12"/>as a Legacy, the Apoſtle gives it us fully and clearly, 1 <hi>Pet.</hi> 5.2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Cedar, Firre,</hi> and <hi>Pine,</hi> muſt both <hi>rule</hi> and <hi>feed,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, not by <hi>conſtraint, or out of filthy lucre;</hi> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>willingly,</hi> and of a <hi>ready minde,</hi> becauſe we delight in her, then doth the glory of <hi>Lebanon come.</hi>
+            </p>
+            <p n="6">6. Behold them in their <hi>Unity;</hi> they ſhall come <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, they muſt come <hi>together,</hi> many muſt ſweetly conſpire; as if it was the work of one man; otherwiſe <hi>Babels</hi> con<g ref="char:EOLhyphen"/>fuſion will be the ſad fate of <hi>Sions</hi> glory: Joynt conſent and unanimity, is the ſtrength and glory of every good work, as 2 <hi>Chron.</hi> 24.12.13. when <hi>Joaſh</hi> the <hi>Prince,</hi> and <hi>Jehoiada</hi> the <hi>Prieſt,</hi> the <hi>Cedars</hi> in <hi>Lebanon,</hi> the <hi>Le<g ref="char:EOLhyphen"/>vites</hi> to collect, and the <hi>people</hi> to contribute, the <hi>Maſons and Carpenters,</hi> and other artificers to work, and repair the houſe and all come <hi>together,</hi> then <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in work<g ref="char:EOLhyphen"/>ing they wrought,</hi> and healing went up upon the work, they ſet the houſe of God upon its <hi>Baſis,</hi> and perfected it: The Apoſtle as to this ſpiritual houſe, knits this unity in every Epiſtle, if we be <hi>trees,</hi> then he would have us to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Rom.</hi> 6.5. planted <hi>together;</hi> if materials in that Temple, <note place="margin">Eph. 2.21.</note> then the building muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>building fitly framed together;</hi> if we be <hi>builders</hi> in that houſe, then we muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, workers <hi>together,</hi> 1 <hi>Cor.</hi> 3.9. if they as <hi>Cedars</hi> in all, lead the way, others muſt follow, and that with joynt conſent, hand in hand, and heart in heart, and be not only <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, followers <hi>together</hi> of them, <hi>Phil.</hi> 3.17. that all that ad<g ref="char:EOLhyphen"/>mirable <hi>variety</hi> may concenter in as admirable an <hi>unity:</hi> that as that ancient <hi>Father</hi> ſaid of the Churches garments made up of divers colours, <hi>Varietas multa, ſciſſura vulla,</hi> great variety but no rent, in that coat; then and thus will the glory o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Lebanon</hi> come, the Firre, and Pine, and
+<pb n="19" facs="tcp:109971:12"/>Box <hi>together,</hi> to make the place of his feet glorious: And thus you may behold theſe willing tributaries come in their glory to <hi>Sions</hi> glory; thus we ſhall come as the Spouſe made her addreſſes to her beloved, as ſome read that Text, <hi>Cant.</hi> 1.4. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>in rectitudinibus,</hi> in her <hi>right</hi> and commendable motions.</p>
+            <p>All which ſeveral particulars as ſo many rivulets, ſeem to be willing to run back into this general conſectary or Concluſion, which I might have named firſt, but I have reſerved till laſt, as the reſult of all which hath been ſpo<g ref="char:EOLhyphen"/>ken, which is this,
+<q>That all men, with all their power and parts, and varie<g ref="char:EOLhyphen"/>ty of gifts and graces, and ſeveral capacities, ſhould tend to the glory of the Church as their proper end.</q>
+            </p>
+            <p>And having ſo diſtinctly and largely treated of the <hi>Quid</hi> and the <hi>Cui,</hi> the <hi>Treaſury</hi> and the <hi>Tributaries;</hi> I have left this only to be treated of, the <hi>Quare,</hi> or the <hi>treaſure</hi> which we are to preſent her with, and that is <hi>glory,</hi> or to make her <hi>glorious:</hi> this therefore remains inquirable, what it is which makes <hi>Sion</hi> glorious?</p>
+            <p>The glory of the Church when ſhe ſhall be <hi>triumphant</hi> we may admire, but never deſcribe, as eye hath not ſeen it, nor ear heard it, nor heart conceived it, ſo no penſel can draw it forth; the Apoſtle gives as much of it, as can be given by pen of men or Angels, on this ſide the poſſeſ<g ref="char:EOLhyphen"/>ſion of it, in that elegant expreſſion, 2 <hi>Cor.</hi> 4.17. <hi>a far more exceeding and eternal weight of glory:</hi> But where the glory of the Church <hi>militant</hi> lies, we have the Scri<g ref="char:EOLhyphen"/>pture to direct us, and I ſhall not wander farr for my diſ<g ref="char:EOLhyphen"/>covery, only from this very Chapter borrow five ſeve<g ref="char:EOLhyphen"/>ral particulars as the expreſſes of that ſpirit, who beſt
+<pb n="20" facs="tcp:109971:13"/>knowes wherein the true glory of <hi>Sion</hi> lyeth, and they are as follows.</p>
+            <p n="1">1. From <hi>v.</hi> 1. <hi>Ariſe and ſhine, for thy light is come, and the glory of the Lord is riſen upon thee:</hi> Light is the Churches glory; for that ſaith the Wiſe man, is <hi>beauti<g ref="char:EOLhyphen"/>full and pleaſant to behold, Eccleſ.</hi> 11.7. The black veil of darkneſs ſtains and eclipſeth any glory; that <hi>firſt mat<g ref="char:EOLhyphen"/>ter</hi> was without form and void, ſo long as darkneſs was upon the face of the deep: the firſt dawnings of glory upon the unſhapen univerſe was <hi>light,</hi> as a good eye makes the face beautifull: But what is this light? we have the concurrent ſuffrage of Interpreters to direct us here, with this diſtinction of <hi>Lux quae,</hi> and <hi>Lux quâ illu<g ref="char:EOLhyphen"/>minat,</hi> the light which enlighteneth us, is <hi>Jeſus Chriſt,</hi> who is the true <hi>light;</hi> but the light with which he doth enlighten us, is the <hi>Goſpel,</hi> that great engine of mans ſal<g ref="char:EOLhyphen"/>vation, which brings Immortality and life to light; and gives both light and eyes: <hi>Lumen hoc eſt verbum Evan<g ref="char:EOLhyphen"/>gelii de Chriſto crucifixo,</hi> ſaith <hi>Lyra:</hi> and, <hi>per lumen Chriſti preſentiam, doctrinam et univerſam Evangelii gloriam exprimit,</hi> ſaith <hi>Alapid</hi> upon the Text; and ſo a whole cloud of witneſſes leads us to this truth, that this light is the glory of the <hi>Goſpel:</hi> But what need we appeal to humane teſtimony, when we have divine ſo clear: thoſe duskiſh propheſies in the dawnings of the Church are called a <hi>Light</hi> ſhining out of a dark place, 2 <hi>Pet.</hi> 1.19. St. <hi>Pauls</hi> turning to the <hi>Gentiles</hi> with the <hi>Goſpel,</hi> made him the living Comment upon this very Propheſie, <hi>Acts.</hi> 13.47. <hi>So hath the Lord commanded us, ſaying, I have made thee a light to the Gentiles:</hi> this is that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>true light,</hi> and that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that <hi>marvellous light,</hi> 1 <hi>Joh.</hi> 2.8. 1 <hi>Pet.</hi> 2.9. and of this <hi>light,</hi> the Church is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>Candleſtick,</hi> 1 <hi>Rev.</hi> 20. and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>pillar and
+<pb n="21" facs="tcp:109971:13"/>ground</hi> of this truth, 1 <hi>Tim.</hi> 3.15. as being her glory; it's alſo called the glory that excelleth, 2 <hi>Cor.</hi> 3. and the glo<g ref="char:EOLhyphen"/>rious Goſpel, 2 <hi>Cor.</hi> 4.4. and ſo glorious, that it beſpeaks their feet beautifull who bring it, <hi>Rom.</hi> 10.</p>
+            <p>And then the <hi>Cedar</hi> of <hi>Lebanon</hi> ſhall come, <hi>&amp;c.</hi> ſome to lay the foundation, others to build, and all to tend <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to the <hi>furtherance of the Goſpel, Phil.</hi> 1.12. <hi>She ſhall ſuch the breaſts of Kings, Iſa.</hi> 60.16. the Prophet telleth us of the <hi>breaſts,</hi> but the Apoſtle telleth us what the <hi>milk</hi> is; <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>milk of the Word,</hi> 1. <hi>Pet.</hi> 2.2. it is the Churches <hi>glory</hi> when ſhe hath no dry breaſts; when the <hi>Cedar in Lebanon</hi> comes to protect, the <hi>Firre,</hi> and <hi>Pine</hi> comes to propagate, the one by <hi>power,</hi> the other by <hi>pains;</hi> the one by <hi>licenſe,</hi> the other by <hi>labour</hi> in the Word and Doctrine; when there is no <hi>Embargo</hi> lyes upon thoſe Ships which ſhould bring <hi>Sions</hi> ſons from farre; when this Light is neither blown out, not put un<g ref="char:EOLhyphen"/>der a buſhel; when no <hi>Philiſtines</hi> to ſtop up theſe Wells of water of life, as <hi>Gen.</hi> 26.15. when the one with St. <hi>Paul</hi> is for the <hi>defence</hi> of the Goſpel, the other for the <hi>increaſe</hi> of it, <hi>Phil.</hi> 1.17. the one to give it <hi>free courſe,</hi> the other life and motion, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 <hi>Theſſ.</hi> 3.1. its moſt glorious when it runs faſteſt; when the one makes it room, and the other makes it run, when all in their ſeveral ſtations are cautelous, as the Apoſtle, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>leſt we ſhould give any check to the Goſpel of Chriſt,</hi> that by the rod of his mouth, his reſt might be glorious, then the <hi>glory of Lebanon comes, &amp;c. to make the place of his feet glorious.</hi>
+            </p>
+            <p n="2">2. From <hi>v.</hi> 4, 5. <hi>Thy Sons ſhall come from farr, and thy daughters ſhall be nurſed at thy ſides, the abundance of the Sea ſhall be converted unto thee:</hi> a <hi>numerous Iſſue, and increaſe of Converts,</hi> are the Churches glory, when as ſhe
+<pb n="22" facs="tcp:109971:14"/>hath no dry breaſts, ſo no <hi>barren Wombe,</hi> it's then like ſuch a glorious couple, as <hi>Iſa.</hi> 54.5. <hi>thy maker is thy husband:</hi> when the meaſure of their Iſſue, is the dew that falls from the morning womb, <hi>Pſ.</hi> 110. glory is contracted in one individual; but dilated in <hi>many:</hi> this Law, <hi>creſcite et mul<g ref="char:EOLhyphen"/>tiplicamini;</hi> increaſe and multiply, is that whereby nature preſerves it ſelf; and ſo in the Church; numeration, multiplication and addition ſhe owns: but ſubſtraction and diviſion are ſtrangers to her Arithmetique; It was an indeleble obloquy in <hi>Iſrael,</hi> to dye childeleſs; and by children born again, the Churches reproach is taken away; <hi>Filii corona ſenum,</hi> ſaith the Wiſe man, <hi>Prov.</hi> 17. <hi>Chil<g ref="char:EOLhyphen"/>dren are a Crown,</hi> and the Apoſtle calls them his glory, 1 <hi>Theſſ.</hi> 2.10. and if ſo to the Father, they are no leſs to the Mother: this is the ſum of the divine <hi>promiſe, Iſa.</hi> 54.1. <hi>The children of the deſolate ſhall be more than thoſe of the marryed Wife:</hi> ſhe ſhould forget the ſhame of her youth, and the reproach of her widdowhood, <hi>v.</hi> 4. It is the matter of the Churches <hi>exultation</hi> and <hi>triumph, Iſa.</hi> 49.20. <hi>The place is too ſtrait for me:</hi> this is the ſubject of all thoſe <hi>Encomiaſtique Elogies,</hi> when glorious things are ſpoken of her, <hi>Pſ.</hi> 87.4. to mention <hi>Rahab, Babylon, Phy<g ref="char:EOLhyphen"/>liſtia, and Tyre,</hi> that this and that man was born there: It was the glory of the Primitive Church, that there were daily added to the Church: and that there was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>a multitude of them that believed, Acts</hi> 4.32. this is truely, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Eph.</hi> 4.12. <hi>The edification of the body,</hi> and this is either, <hi>edificatio totius,</hi> or <hi>edifica<g ref="char:EOLhyphen"/>tio partium;</hi> edification of the whole, or of the parts: that <hi>of the whole,</hi> is the daily accretion of new materials, to that ſpiritual houſe: daily adding new Converts, un<g ref="char:EOLhyphen"/>till the body be compleat in members: that <hi>of the parts,</hi> is the growth and increaſe of grace in every part, untill
+<pb n="23" facs="tcp:109971:14"/>it come to the <hi>perfect man:</hi> ſo that every part ſhall be <hi>fat and flouriſhing in the Courts of our God, Pſ.</hi> 92.12. being ſatisfied with the <hi>fatneſs of Gods houſe, Pſal.</hi> 36.8. when they ſuck the breaſts of her Conſolation, and their bones <hi>flouriſh like an hearb, Iſa.</hi> 66.14. ſo that there ſhall not be an <hi>Infant of dayes,</hi> but a childe ſhall dye an hun<g ref="char:EOLhyphen"/>dred years old, <hi>Iſa.</hi> 65.20. this will be <hi>Sions</hi> glory, when her retinue thrives in the family, and thoſe that are nurſed at her ſide grow up apace: the Queen of <hi>Sheba</hi> will have no more ſpirit in her, to behold the meat at <hi>Solomons</hi> Ta<g ref="char:EOLhyphen"/>ble, 1 <hi>Kings</hi> 10. Then I have a word <hi>ad Clerum,</hi> to my Brethren of the Miniſtry.</p>
+            <p>The Apoſtle telleth us, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the edification of the body,</hi> is the <hi>work of the Mi<g ref="char:EOLhyphen"/>niſtry, Eph.</hi> 4.12. <hi>The glory of our Fathers houſe, the Off<g ref="char:EOLhyphen"/>ſpring and the iſſue is hung upon our ſhoulders,</hi> Iſa. 22.24. The <hi>Miniſter</hi> is to be the <hi>Father,</hi> and <hi>Mother,</hi> and <hi>Nurſe</hi> too: and therefore we finde St. <hi>Pauls</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Cor.</hi> 4.15. his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, Gal. 4.19. his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 1 <hi>Theſſ.</hi> 2.7. <hi>I have begotten you:</hi> in the firſt, <hi>I travail again in birth:</hi> in the ſecond, and <hi>as a nurſe cheriſheth her childe, ſo we have you.</hi> in the third: I have therefore licenſe from St. <hi>Paul</hi> the great Viſitor of the Churches, <hi>Col.</hi> 4.17. to tell <hi>Archippus,</hi> and ſay to him, <hi>Take heed to thy Miniſtry, that thou haſt received, to fulfill it:</hi> And to <hi>Ti<g ref="char:EOLhyphen"/>mothy,</hi> 2 <hi>Tim.</hi> 2.15. <hi>Study to ſhew thy ſelf approved unto God, a workman that needeth not to be aſhamed:</hi> Thoſe Offices which are divided in others, are united in us, ſo that our work is great, and calls amongſt many things, for theſe two from us.</p>
+            <p n="1">1. Our knowledge and skill had need be great, a <hi>Mi<g ref="char:EOLhyphen"/>niſter</hi> muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, with the Apoſtle, 1 <hi>Tim.</hi> 4.6. and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with our Saviour, <hi>Math.</hi> 13.52. <hi>nouriſhed
+<pb n="24" facs="tcp:109971:15"/>up in the words of Faith:</hi> and <hi>a Scribe well inſtructed to the Kingdom of Heaven:</hi> we ſhould be <hi>able Miniſters of the New Teſtament,</hi> 2 Cor. 3.6. <hi>Viri virtutis,</hi> Men of ſpiritual ſtrength, as <hi>Apollos,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>mighty in Scriptures,</hi> able to divide the Word of Truth aright, and to ſtop the mouths of gainſayers: <hi>Miniſters</hi> as the Pro<g ref="char:EOLhyphen"/>phets of old are called <hi>Seers,</hi> Eyes to the people, but if the <hi>Eye</hi> be darkneſs, how great is the darkneſs of that bo<g ref="char:EOLhyphen"/>dy? is Chriſts own Probleme: Where no <hi>Viſion is, the people muſt needs fail and periſh,</hi> Prov. 29.18. If <hi>Mini<g ref="char:EOLhyphen"/>ſters</hi> be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Clouds without water,</hi> how ſhall Doctrine diſtill like the dew upon the tender hearb? The <hi>Prieſts lips</hi> cannot preſerve knowledge in the hearers, when it is not at all in the Speaker: but where <hi>the blinde lead the blinde, both muſt fall into the ditch.</hi>
+            </p>
+            <p n="2">2. Our diligence and activity, muſt be great: me thinks the Apoſtles <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>eſpecially thoſe that la<g ref="char:EOLhyphen"/>bour in the Word,</hi> 1 Tim. 5.17. and his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, 2 Tim. 4. <hi>Be inſtant in ſeaſon and out of ſeaſon,</hi> ſhould awaken us. A Miniſter is a <hi>Feeder</hi> as well as a <hi>Seer;</hi> he is <hi>Promus-Condus,</hi> that is, <hi>Condus</hi> to lay up, but <hi>Promus</hi> to lay out; <hi>Aaron</hi> as he had his <hi>Urim</hi> on his breaſt, ſo he had his <hi>Bells</hi> round his skirt, and they wanted not their <hi>Clappers,</hi> if they ſounded not, he was to die for it. <hi>Miniſters</hi> are <hi>Stewards</hi> in Gods houſhold, <hi>Luk.</hi> 12.42. and a <hi>Steward</hi> ſaith the Text, muſt be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, both <hi>wiſe</hi> to know how to do it, and <hi>faithfull</hi> in the doing it; to give them <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, both <hi>meat</hi> and <hi>meaſure;</hi> they muſt be neither quite ſtarved, nor lean fed, <hi>Leſſius</hi> his diet in ſpirituals Chriſt alloweth not; the one will keep the Spirit as low as the other the Fleſh; God hath a con<g ref="char:EOLhyphen"/>troverſie both with the <hi>people</hi> and the <hi>Prieſt,</hi> for their ſpi<g ref="char:EOLhyphen"/>ritual theft; with the <hi>people</hi> for robbing God of his Tythes
+<pb n="25" facs="tcp:109971:15"/>and Offerings, and ſo the <hi>Miniſter</hi> of his food, <hi>Mal.</hi> 3.8.9. and with the <hi>Prieſt,</hi> for ſtealing the Word of God from his neighbour, <hi>Jer.</hi> 23.30. to force the ſheep to bring the fleece, and to ſeek for their food, is unequal: In the Pa<g ref="char:EOLhyphen"/>rable, <hi>Math.</hi> 25.26. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the <hi>ſlothfull</hi> is the <hi>evil</hi> ſervant; a <hi>Miniſter</hi> never wants work, and if he work not, he ſhall never want woe, ſo the Apoſtle, 1 <hi>Cor.</hi> 9.16. <hi>Wo to me if I preach not the Goſpel,</hi> like that of the Pro<g ref="char:EOLhyphen"/>phet, <hi>Zach.</hi> 11.17. <hi>Woe to the Idol-Shepheard,</hi> which may be the <hi>idle Shepheard</hi> without a <hi>quibble,</hi> but that its ſome<g ref="char:EOLhyphen"/>thing more comprehenſive; the <hi>Shepheard</hi> that hath nei<g ref="char:EOLhyphen"/>ther eyes to ſee withall, nor arms to work withall; ſo ſaith the Text, <hi>his right eye is utterly darkned,</hi> and <hi>his right arm clean dryed up:</hi> whereby the Prophet would tell us, that neither an <hi>Ignorant,</hi> nor a <hi>lazy</hi> Miniſtry, the one without his <hi>eye,</hi> the other without his <hi>arm,</hi> come as the <hi>Ce<g ref="char:EOLhyphen"/>dar, Box,</hi> or <hi>Pine,</hi> to make <hi>Sion</hi> glorious.</p>
+            <p n="3">3. From <hi>v.</hi> 7. and the 15. <hi>they ſhall come with accep<g ref="char:EOLhyphen"/>tance upon mine Altar, and I will glorifie the houſe of my glory: whereas thou haſt been forſaken and hated, ſo that no man went thorow thee, I will make thee an eternal ex<g ref="char:EOLhyphen"/>cellency, the joy of many generations:</hi> frequency and <hi>unin<g ref="char:EOLhyphen"/>terrupted exerciſe of Publique Worſhip,</hi> is <hi>Sions</hi> glory; as <hi>Gods</hi> preſence there, makes her <hi>an eternal excellency,</hi> ſo our preſence there, makes her appear the <hi>joy of many ge<g ref="char:EOLhyphen"/>nerations:</hi> here runneth the current of divine Promiſes, <hi>Iſa.</hi> 66.20. <hi>They ſhall come from New Moon to New Moon to worſhip before the Lord of Hoſts:</hi> Iſa. 2.2. <hi>Come, let us goe up to the Houſe of the Lord; all Nations ſhall flow unto it:</hi> Zach. 14.16. <hi>All Nations ſhall goe up from year to year to worſhip the Lord, and keep the Feaſt of Tabernacles:</hi> and <hi>Pſ.</hi> 122.2.4. <hi>Our feet ſhall ſtand in thy gates, O Jeru<g ref="char:EOLhyphen"/>ſalem, whither the Tribes goe up to give thanks unto the
+<pb n="26" facs="tcp:109971:16"/>name of the Lord: Sions</hi> glory is moſt ecclipſed, when her wayes are moſt unoccupied, and then the wayes of <hi>Sion</hi> mourn, when <hi>none come to her ſolemn Feaſts,</hi> Lam. 1.4. I have here a word <hi>ad populum,</hi> to the people, who come in for a ſhare in the <hi>Box, and Firre, and Pine;</hi> here is ſome work for you, and you muſt <hi>come;</hi> the Apoſtle tel<g ref="char:EOLhyphen"/>leth you how, 1 <hi>Cor.</hi> 11. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>when you come together into one place;</hi> thus may you come to<g ref="char:EOLhyphen"/>gether to <hi>Sions</hi> glory; and here the Prophet brings in his <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Iſrael ſhall come, and Judah together, to ſeek the Lord, and ask the way to Sion,</hi> Jer. 50.4. the Apoſtle, <hi>Rom.</hi> 9.4. joyns the <hi>ſervice of God,</hi> and <hi>glory</hi> together; and the Prophet <hi>Iſa.</hi> 4.5. <hi>Aſſemblies</hi> and <hi>glory</hi> together, as if they would tell us, that concourſe, and multitude of <hi>Sions</hi> Worſhippers, make her glorious, as the conflux of Starrs makes the glory and the beauty of the <hi>Galaxy</hi> or milky way in the firmament: then was <hi>Sion</hi> glorious when <hi>Da<g ref="char:EOLhyphen"/>vid</hi> could ſay, <hi>Pſ.</hi> 42.4. <hi>I went to the Houſe of God with a multitude;</hi> and as if the Emphaſis of the Text; and the brightneſs of <hi>Sions</hi> glory lay here, he ingeminateth the expreſs, <hi>with a multitude that kept holy-day;</hi> then are the Tabernacles amiable, when men <hi>goe thither by troops, and every one appear before God in Sion,</hi> Pſ. 84.7. when men appear not as ſingle Starrs, but as Conſtellations, in her Horizon, then <hi>Sion</hi> ſhines bright; the Text telleth you, the <hi>Firre, Pine, and Box</hi> muſt come <hi>together,</hi> then St. <hi>Pauls</hi> to the <hi>Hebrewes,</hi> muſt be mine to you, <hi>Heb.</hi> 10, 25. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Forſake not the aſſem<g ref="char:EOLhyphen"/>bling of your ſelves together,</hi> and as <hi>Heb.</hi> 13.15. <hi>By him therefore let us offer the ſacrifice of praiſe to God continually, &amp;c.</hi> If <hi>Sion</hi> be the place of Gods feet, ſhe may well be the place of ours; if he dwell there, our feet may well ſtand there; if God come down, the Tribes of the Lord
+<pb n="27" facs="tcp:109971:16"/>may well goe up thither: It is a Lamentation, and may be for a Lamentation, that our unhappy Diviſions have mouldred us into ſuch uncomely ſeparations, that <hi>Sion</hi> ſeems to be forſaken of her Sons; ſuch thin and ſlender Aſſemblies as we ſee daily within <hi>Sions</hi> walls, ſeem to be<g ref="char:EOLhyphen"/>ſpeak her not worth the owning; and her glory muſt needs be under a cloud, when her Solemn Aſſemblies become a reproach; as <hi>Zeph.</hi> 3.18. flock thither as <hi>Doves to their windowes:</hi> Let her be no more tearmed <hi>forſaken</hi> and <hi>de<g ref="char:EOLhyphen"/>ſolate,</hi> but let <hi>us,</hi> as well as <hi>God</hi> himſelf give her her name, <hi>Hephzi-bah</hi> and <hi>Benlah,</hi> as <hi>Iſa.</hi> 62.4. to ſhew, that as <hi>the Lord,</hi> ſo <hi>we delight in her;</hi> then ſhall ſhe be as a <hi>Royal Diadem, and Crown of glory in the hand of the Lord,</hi> and you ſhall, as in the Text, as the <hi>Firre, Pine and Box, come to make Sion glorious.</hi>
+            </p>
+            <p n="4">4. From <hi>v.</hi> 21. <hi>Thy people ſhall be all righteous, the branch of my planting, that I may be glorified;</hi> and as fur<g ref="char:EOLhyphen"/>ther explained, <hi>Iſa.</hi> 62.12. <hi>They ſhall call them the holy people:</hi> here lyeth the true glory <hi>of God,</hi> in that he is <hi>the Holy One;</hi> the glory of the <hi>Temple</hi> lay here, in that it was the <hi>holy place;</hi> of the <hi>new Jeruſalem</hi> in that it is the <hi>holy City;</hi> and ſo of his <hi>Church,</hi> in that they are the people of <hi>his holineſs;</hi> this made the Spouſe <hi>the faireſt among wo<g ref="char:EOLhyphen"/>men,</hi> in that ſhe was without <hi>ſpot,</hi> Cant. 4.7. and then Chriſt preſents her glorious, when <hi>without wrinkle or ble<g ref="char:EOLhyphen"/>miſh,</hi> Eph. 5.26. Holineſs becomes his <hi>Houſe,</hi> his <hi>Prieſts,</hi> his <hi>People:</hi> Here I have a word both <hi>ad Clerum,</hi> and <hi>ad Populum,</hi> as thoſe that joyntly come to <hi>Sion;</hi> being cal'd by the Apoſtle, 1 <hi>Pet.</hi> 2. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>holy nation,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, a <hi>holy Prieſthood:</hi> God calleth for holineſs to make <hi>Sion</hi> glorious; as the Prophet, <hi>Zach.</hi> 14.20. <hi>In that day upon the Bells of the Horſes, and every Pot in Jeruſalem, there ſhall be holineſs to the Lord:</hi> But chiefly
+<pb n="28" facs="tcp:109971:17"/>this directs a word to the <hi>Clergy,</hi> in whom holineſs is moſt required, and all impurity moſt viſible: <hi>Aaron</hi> had his garments for glory and beauty; ſo God will have all his <hi>Saints,</hi> but chiefly his <hi>Prieſts</hi> cloathed with righteouſneſs, Pſal. 132.9. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>Sacer,</hi> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is <hi>Sacerdos;</hi> and the <hi>Hebrewes</hi> obſerve, that <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the one ſignifying a <hi>Prieſt,</hi> the other a <hi>Bridegroom,</hi> come both from the ſame root, as teaching us, that a <hi>Prieſt</hi> in his ſervice ſhould be adorned as a <hi>Bridegroom</hi> for his nuptial ſolemnity; <hi>Aaron</hi> had his <hi>Thummim</hi> as well as his <hi>Urim,</hi> and a plate of gold upon his breaſt inſcribed, <hi>Holineſs to the Lord,</hi> Exod. 28.26. under the Law, the <hi>Levite</hi> was to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and the Goſpel-Miniſter is to be <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>without rebuke:</hi> Veſ<g ref="char:EOLhyphen"/>ſels of Honour, if fit for the Maſters uſe, muſt firſt be <hi>ſanctified,</hi> 2 Tim. 2.21. they are <hi>Lights,</hi> and with <hi>John Baptiſt</hi> they muſt be burning and ſhining Lights, their Lives muſt be viſible Sermons, and their practice Com<g ref="char:EOLhyphen"/>ments upon their Preaching: <hi>Suadet loquentis vita non oratio,</hi> ſaith the Poet: Its the Life, not the Language of the Preacher, that perſwadeth moſt: the <hi>Jewes</hi> have a ſay<g ref="char:EOLhyphen"/>ing fit for us, to this purpoſe: <hi>Semper homo doce at diſcipu<g ref="char:EOLhyphen"/>los ſuos viâ brevi:</hi> Let every man <hi>teach his Schollers the ſhorteſt way:</hi> What that is, the old Adage will tell us; <hi>Per precepta longa, per exemplum breve;</hi> the ſhorteſt by <hi>example.</hi> But when <hi>Sions Watch-men</hi> degenerate, and her Gold becomes dim, the Sons of <hi>Sion</hi> that ſhould be fine Gold, become like Earthen Pitchers, or the very ſcum of men, as to their morals; her <hi>Nazarites</hi> that ſhould be whiter then ſnow, their viſage is blacker then a coal, not with ſuffering but ſinning; thoſe that ſhould have wings tipped with ſilver, and feathers with yellow Gold, are as if they had lyen among the Pots, with the tincture of a de<g ref="char:EOLhyphen"/>bauched looſeneſs upon them, when God may complain,
+<pb n="29" facs="tcp:109971:17"/>as <hi>Jer.</hi> 23.11. <hi>The Prophet and the Prieſt are prophane, and from them Iniquity is gone forth into all the Land:</hi> So that they become <hi>Populi odium et Miniſterii ſcandalum,</hi> a bait to the people, and a blemiſh to their profeſſion: in this caſe the <hi>Cedar, Box, and Pine, come not together to make Sion glorious.</hi>
+            </p>
+            <p n="5">5. From <hi>v.</hi> 4.5.7.13. its the burden of the Chapter. <hi>They ſhall be gathered together; they ſhall flow together; and they ſhall come together.</hi> A bleſſed <hi>Peace</hi> and <hi>Unity</hi> is a great ingredient into <hi>Sions</hi> glory: This is the good <hi>craſis</hi> and tem<g ref="char:EOLhyphen"/>perature of the body myſtical; this is both <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <hi>ſigillum,</hi> the flowre of <hi>Sions</hi> glory, and that which ſealeth all the reſt, and makes them ſure; this peace, and unity, was all that <hi>David</hi> prayed for, for <hi>Jeruſalem,</hi> Pſal. 122.6. becauſe in praying for that, he prayed for all, <hi>Pray for the peace of Jeruſalem, peace be within thy Walls, and proſperity within thy palaces:</hi> If <hi>peace</hi> be an Inmate, <hi>proſperity</hi> cannot be a <hi>Forreigner.</hi> This was the glory of the <hi>Tabernacle,</hi> that all the parts of it were coupled together with Rings of gold; <hi>God</hi> he takes this for his name, <hi>Jehovah-ſhalem, Judg.</hi> 6.24. <hi>Jehovah is peace,</hi> Chriſt is <hi>King of Salem, Heb.</hi> 7.2. <hi>King of peace;</hi> the Goſpel is the <hi>Goſpel of peace,</hi> Rom. 10.15. <hi>Jeruſalem</hi> is <hi>Viſio pacis;</hi> and ſhe loſeth the right to her name, if ſhe be not the <hi>Viſion of peace;</hi> and the <hi>unity of the Spirit</hi> in the bond of peace, is the beautifull Rule of our walking, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, worthy of our calling to <hi>one</hi> Lord, <hi>one</hi> Faith, <hi>one</hi> Baptiſme: It was the glory of the World to be of one <hi>Lippe.</hi> untill the curſe of <hi>Babel</hi> divided their Lan<g ref="char:EOLhyphen"/>guages: Its a Promiſe that runneth parallel with this, <hi>Jer.</hi> 52.39. <hi>I will give them one heart and one way;</hi> and <hi>Zeph.</hi> 3.9. <hi>They ſhall ſerve the Lord with one conſent,</hi> which the Primitive Chriſtians made good, <hi>Acts</hi> 4.32. there was <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>one heart and one ſoul;</hi> as if by a pious <hi>Metempſuchoſis,</hi> one ſoul had ſucceſſively animated, and informed ſo many bodies: It was ſaid of <hi>Jeruſalem,</hi>
+               <pb n="30" facs="tcp:109971:18"/>as one of the glorious things ſpoken of her, that ſhe was built as a City <hi>compact together,</hi> Pſ. 122.3. <hi>Cujus ſocietas concors,</hi> ſaith the <hi>Arabick Verſion,</hi> but the Text is more ele<g ref="char:EOLhyphen"/>gant, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and in the Interlineary <hi>Quae juncta eſt ſibi ſimul,</hi> a firm agglutination of every part each to other, and all to the whole; ſo that every one can pay his tribute to <hi>Sions</hi> treaſure without ſchiſme or fraction. It was ſome blemiſh to the Churches glory, when they begun to divide either in judgment, or affection, when one ſaid of Chriſt, <hi>Ecce in Deſerto,</hi> another, <hi>Ecce in Penetralibus,</hi> or of the Apoſtles, one to ſay, <hi>I am of Peter,</hi> a ſecond, <hi>I am of Paul,</hi> a third, <hi>I am of Apollo,</hi> when there were thoſe ſharp <hi>Paroxiſmes</hi> and contentions, betwixt or among the tall <hi>Ce<g ref="char:EOLhyphen"/>dars,</hi> as <hi>Peter</hi> and <hi>Paul;</hi> and <hi>Paul</hi> and <hi>Barnabas;</hi> ſo hot as that they muſt part. And is it not ſo now? I fear if St. <hi>Paul</hi> was our preſent Viſitor, he would charge us as he did the <hi>Corinthians,</hi> 1 Cor. 11. <hi>I hear there are diviſions among you, and I beleeve it:</hi> What diſtance in judgement, and heats in affections; as if <hi>Opinionum varietas et opinantium unitas were</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, whereby the Church comes to be martyred by her own Sons, it may be ſaid of our time as <hi>Forerius</hi> ſaid of his; <hi>Juvat magis deflere quam deſcribere;</hi> For ſo indeed it rather calls for a Sea of tears to waſh off the guilt, than a penſel to perpetuate the memory of them: were I worthy or able to interpoſe in an <hi>Irenicum</hi> or Expedient for Peace, I ſhould think it my honour: However at this time I may be St. <hi>Pauls</hi> Manual, to hand to you that cau<g ref="char:EOLhyphen"/>tion of his, <hi>Rom.</hi> 14.19. <hi>Follow the things that make for peace; be of one minde, love as Brethren,</hi> the <hi>Cedar, Firr, Pine, and Box</hi> all intend that which may tend to <hi>Sions peace;</hi> St. <hi>Paul</hi> cryes, <hi>Be ye followers of us as dear children,</hi> here the bleſſed Apoſtles, and the Primitive Diſciples all con<g ref="char:EOLhyphen"/>centred in levelling both their power, and obedience at this mark: the Apoſtles as <hi>Cedars,</hi> eyeing only things <hi>neceſſary</hi>
+               <pb n="31" facs="tcp:109971:18"/>and <hi>expedient;</hi> and others, as <hi>Pine and the Box,</hi> eyeing thoſe things which were <hi>lawfull;</hi> the Apoſtles things <hi>ne<g ref="char:EOLhyphen"/>ceſſary</hi> and <hi>expedient</hi> to <hi>command</hi> them, and others all things <hi>lawfull</hi> to <hi>obey</hi> them; St. <hi>Paul</hi> as a <hi>Cedar</hi> ſaith of himſelf and thereſt, <hi>Acts</hi> 15.28. <hi>We lay no other burden upon you than things neceſſary,</hi> 1 Cor. 9.12. <hi>We uſed not this power leſt we ſhould hinder the Goſpel of Chriſt:</hi> And he ſaid alſo of the reſt, <hi>that he glorified God for their profeſſed ſubjection,</hi> 2 Cor. 9.13. and that they had alwayes <hi>obeyed not in his preſence only, but in his abſence alſo,</hi> Phil. 2.12. accor<g ref="char:EOLhyphen"/>ding to the rule, <hi>Obey them that have the overſight of you.</hi> St. <hi>Paul</hi> as a <hi>Cedar</hi> did not proceed as we finde ſpoken by <hi>Tacitus</hi> of ſome, <hi>Liberius quam ut imperantium meminiſ<g ref="char:EOLhyphen"/>ſent,</hi> acted more freely then, <hi>as if they remembred the Office of Governours:</hi> nor the diſciples and other members of the Church, as <hi>the ſame Author</hi> ſpeaks of ſome in his time, <hi>Erant in Officio ſed tamen qui mallent imperantium manda<g ref="char:EOLhyphen"/>ta interpretari quam exequi,</hi> who had rather <hi>diſpute the Commands of Superiours, then obey them:</hi> the Apoſtles, <hi>as Cedars</hi> did not command every thing: the reſt, <hi>as the Firs, and Pine, and Box,</hi> did not act as if they would obey no<g ref="char:EOLhyphen"/>thing; ſo that every one might <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>ſeem to be contentious;</hi> lovers of <hi>Victory</hi> rather than <hi>Verity,</hi> pur<g ref="char:EOLhyphen"/>ſuers of their own wills more than the Churches weal, this the Apoſtle gives a check to with a <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We have no ſuch cuſtom, nor the Churches of God.</hi> To cloſe up all, by what hath been ſpoken, it appeareth, that we owe all, our <hi>Eſse</hi> our <hi>Poſſe,</hi> what we are, or have, to the Church: This was Gods end in all that he bemuſted Chriſt himſelf with, he made him <hi>head</hi> over all thing, but its <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, he gave him ſo <hi>to the Church.</hi> It is the end of all that Chriſt doth, of all his mediatory tranſacti<g ref="char:EOLhyphen"/>ons, he gave himſelf for <hi>it,</hi> and doth all, <hi>that he may preſent it a glorious Church,</hi> Eph. 5.25.26. It is the end of all the
+<pb n="32" facs="tcp:109971:19"/>offices and gifts, and graces, in the Church, <hi>Eph.</hi> 4. <hi>Work of the Miniſtry and edifying the body of Chriſt.</hi> Let us con<g ref="char:EOLhyphen"/>ſider, what the Church is, to <hi>God,</hi> to <hi>Jeſus Chriſt,</hi> and what ſhe is to <hi>us,</hi> ſhe is the place of the <hi>Fathers</hi> feet; ſhe is the <hi>Sons Spouſe,</hi> and his <hi>Body;</hi> and ſhe is the <hi>Mother</hi> of us all: I ſhall therefore make that of St. <hi>Paul</hi> my cloſe in Phil. 4.8. <hi>Whatſoever things are true, whatſoever things are honeſt, whatſoever things are juſt, whatſoever things are pure, whatſoever things are lovely, whatſoever things are of good report, if there be any vertue, and if there be any prayſe:</hi> And Phil. 2.1. <hi>If there be any conſolation in Chriſt, if any com<g ref="char:EOLhyphen"/>fort of love, if any fellowſhip of the Spirit, if any bowels and mercies, think upon theſe things:</hi> So ſpeak, and ſo do, that we may make the <hi>place of his feet glorious,</hi> that we being <hi>trees</hi> planted here, in the <hi>Vineyard</hi> of God, when we come to be tranſplanted, we may be all <hi>Trees of Renown</hi> in the <hi>Pa<g ref="char:EOLhyphen"/>radiſe</hi> of God; having <hi>Sions</hi> glory, turn to our good ac<g ref="char:EOLhyphen"/>compt, and glory, in the <hi>New Jeruſalem,</hi> we may inhabit there, where the Foundations and Walls are Pearls, and the ſtreets fine gold, having the Tree of life in the midſt, and the Chryſtal River running through the City: Which that we may both <hi>doe</hi> and <hi>enjoy,</hi> O thou great <hi>God,</hi> who walkeſt in the midſt of the golden Candleſticks, ſo rule, and direct our hearts, ſo bleſs our labours and endeavours, that our hearts may deſire, our heads project, our hands effect, and our eyes ſee, the good of <hi>Jeruſalem</hi> all the dayes of our life, and peace upon <hi>Iſrael;</hi> and this for the ſake of <hi>Jeſus,</hi> who ſo dearly loved her, and ſo dearly bought her, to whom with thee, O <hi>Father,</hi> and the <hi>holy Spirit,</hi> three Perſons, and one <hi>God,</hi> be all honour and glory now and for ever.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:109971:19"/>
+         </div>
+      </body>
+   </text>
+</TEI>
